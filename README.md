@@ -1,5 +1,6 @@
 # Temperature_altert_agent_project
 
+
 **Description of project :**
 This Python code is designed to send temperature alerts via SMS using Twilio based on certain temperature thresholds. Here's a breakdown of what it does in an understandable form:
 
