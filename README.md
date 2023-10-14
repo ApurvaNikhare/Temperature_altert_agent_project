@@ -1,4 +1,4 @@
-# Temperature_altert_agent_project
+# Temperature_alert_agent_project
 
 
 **Description of project :**
